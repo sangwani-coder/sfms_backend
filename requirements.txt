@@ -3,7 +3,6 @@ djangorestframework
 django-cors-headers
 django-rest-auth
 django-allauth
-requestsasgiref==3.5.2
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12
