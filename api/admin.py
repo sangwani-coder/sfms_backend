@@ -20,3 +20,4 @@ admin.site.register(Payment, PaymentAdmin)
 admin.site.register(Term, TermAdmin)
 admin.site.register(Program, ProgramAdmin)
 admin.site.site_header = 'SkoolPay administration'
+admin.site.site_url =''
